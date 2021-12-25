@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Yash Barjatya</h1>
 <h3 align="center">A passionate and budding web developer from India</h3>
 
-- 🌱 I’m currently learning ReactJS
-- 👯 I’m looking to collaborate on MERN stack Projects
+## About Me :
 - 😄 Pronouns: He/His
+- 🎓 Studying Electrical Engineering at IITK, Kanpur.
+- 🌱 Currently learning ReactJS
+- 👯 Looking to collaborate on MERN stack Projects
 - ⚡ Fun fact: Smart enough to know that what i know is very little in compare to the limitless knowledge available
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yash-Barjatya&label=Profile%20views&color=0e75b6&style=flat" alt="Yash-Barjatya" /> </p>
