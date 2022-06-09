@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About Me :
 - 😄 Pronouns: He/His
-- 🎓 Studying Electrical Engineering at IITK, Kanpur.
+- 🎓 Studying Electrical Engineering at IIT Kanpur.
 - 🌱 Currently learning ReactJS
 - 👯 Looking to collaborate on MERN stack Projects
 - ⚡ Fun fact: Smart enough to know that what i know is very little in compare to the limitless knowledge available
