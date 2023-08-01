@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - 🎓 Studying Electrical Engineering at IIT Kanpur.
 - 🌱 Currently learning Machine Learning
-- 👯 Looking to collaborate on MERN stack Projects
-- ⚡ Fun fact: Smart enough to know that what i know is very little in compare to the limitless knowledge available
+- 👯 Looking to collaborate on MERN stack and Machine learning Projects
+- ⚡ Fun fact: Smart enough to know that what I know is very little in comparison to the limitless knowledge available
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yash-Barjatya&label=Profile%20views&color=0e75b6&style=flat" alt="Yash-Barjatya" /> </p>
 -->
