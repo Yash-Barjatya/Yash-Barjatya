@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Yash Barjatya</h1>
-<h3 align="center">A web developer and budding ML enthusiast from India</h3>
+<h3 align="center">A software developer and a budding ML enthusiast from India</h3>
 
 ## About Me :
 - 😄 Pronouns: He/His
-- 🎓 Studying Electrical Engineering at IIT Kanpur.
-- 🌱 Currently learning Machine Learning
+- 🎓 Studying Electrical Engineering at IIT Kanpur(2024).
+- 👨‍💻 Work Experience - Ex SDE intern @Disney+Hotstar and @RTIwala
 - 👯 Looking to collaborate on MERN stack and Machine learning Projects
 - ⚡ Fun fact: Smart enough to know that what I know is very little in comparison to the limitless knowledge available
 <!--
