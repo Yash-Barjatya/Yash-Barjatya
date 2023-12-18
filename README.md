@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## About Me :
 - 😄 Pronouns: He/His
 - 🎓 Studying Electrical Engineering at IIT Kanpur(2024).
-- 👨‍💻 Work Experience - Ex SDE intern @Disney+Hotstar and @RTIwala
+- 👨‍💻 Work Experience - Incoming SDE-1 @Zomato || Ex SDE intern @Disney+Hotstar and @RTIwala
 - 👯 Looking to collaborate on MERN stack and Machine learning Projects
 - ⚡ Fun fact: Smart enough to know that what I know is very little in comparison to the limitless knowledge available
 <!--
